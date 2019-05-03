@@ -61,7 +61,7 @@ class crawlBaoChi extends Command
         $scrape = Goutte::request('GET',$url);
         self::crawlPageVNN($scrape);
 
-        print("CRAWL FINISHED"."\n");
+        // print("CRAWL FINISHED"."\n");
         
         // $next_page = $scrape->filter('a.fon27.mt1.mr2')->each(function ($node) {
         //     return $node->attr('href');
@@ -135,8 +135,10 @@ class crawlBaoChi extends Command
         $content = preg_replace('(Tag.+)','',$content);
 
         $url = $url."\n";
+        $namepage = 'DANTRI'."\n";
         
         $f2 = @fopen('content.txt','w');
+        fwrite($f2,$namepage);
         fwrite($f2,$url);
         fwrite($f2,$timeInit);
         fwrite($f2,$title);
@@ -242,8 +244,10 @@ class crawlBaoChi extends Command
             $content = preg_replace('([\s]+)', ' ', $content);
 
             $url = $url."\n";
+            $namepage = 'VNexpress'."\n";
 
             $f2 = @fopen('content.txt','w');
+            fwrite($f2,$namepage);
             fwrite($f2,$url);
             fwrite($f2,$timeInit);
             fwrite($f2,$title);
@@ -311,8 +315,10 @@ class crawlBaoChi extends Command
         $content = preg_replace('([\s]+)', ' ', $content);
 
         $url = $url."\n";
+        $namepage = 'LAODONG'."\n";
 
         $f2 = @fopen('content.txt','w');
+        fwrite($f2,$namepage);
         fwrite($f2,$url);
         fwrite($f2,$timeInit);
         fwrite($f2,$title);
@@ -393,8 +399,10 @@ class crawlBaoChi extends Command
             }
 
             $url = $url."\n";
+            $namepage = 'VIETNAMNET'."\n";
 
             $f2 = @fopen('content.txt','w');
+            fwrite($f2,$namepage);
             fwrite($f2,$url);
             fwrite($f2,$timeInit);
             fwrite($f2,$title);
