@@ -27,10 +27,10 @@ class Kernel extends ConsoleKernel
     protected function schedule(Schedule $schedule)
     {
         $schedule->command('crawl:baochi')
-            ->everyTenMinutes()
+            ->dailyAt('23:59')
             ->sendOutputTo('outputCrawl.txt');
         $schedule->command('statistic:accident')
-            ->everyTenMinutes()
+            ->monthlyOn(1,'15:00')
             ->sendOutputTo('outputStat.txt');
     }
 

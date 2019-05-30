@@ -8,7 +8,7 @@ import checkSame2
 
 damage = ['tử vong','chết','thương','nguy kịch','nằm la liệt','nhập viện','thiệt mạng','cấp cứu']
 vehicle = ['ô tô','ôtô','xích lô','taxi','công nông','container','xe','xe đầu kéo','tàu','phương tiện']
-accident_verb = ['lao','đè','tông','đâm','cán','nghiến','va','rơi','đối đầu','đấu đầu','gặp nạn','lật','nghiêng','đổ','gãy','gây tai nạn','húc','cháy','leo','nằm','trèo','chèn','ép','kéo']
+accident_verb = ['lao','đè','tông','đâm','cán','nghiến','va','rơi','đối đầu','đấu đầu','gặp nạn','lật','nghiêng','đổ','gãy','gây tai nạn','húc','cháy','leo','nằm','trèo','chèn','ép','kéo','tai nạn']
 today = ['sáng nay','trưa nay','chiều nay','hôm nay','tối nay']
 yesterday = ['đêm qua','tối qua','hôm qua']
 unit = ['thị trấn', 'thị xã','xã', 'tỉnh', 'huyện', 'phường', 'thành phố','tp', 'TP', 'Tp', 'đèo', 'quận', 'hầm', 'cầu', 'ấp', 'thôn', 'xóm', 'ngách', 'ngõ', 'phố', 'khu tập thể', 'phường', 'làng', 'đường','cao tốc','quốc lộ','QL','Quốc lộ','cảng']
@@ -31,22 +31,6 @@ def extractTime(var):
 	code = Text(var)
 	for m in code.sentences:
 		k = str(m).lower()
-		# check2 = re.search('gây ra|xảy ra',k)
-		# check3 = re.search('vụ\s|tai nạn',k)
-		# checkVec = False
-		# checkAccVerb = False
-		# for i in vehicle:
-		# 	hasVehicle = re.search(i,k)
-		# 	if hasVehicle:
-		# 		checkVec = True
-		# 		break
-
-		# for j in accident_verb:
-		# 	hasAccidentVerb = re.search('\s'+j+'\s',title)
-		# 	if hasAccidentVerb:
-		# 		checkAccVerb = True
-		# 		break
-		# if ((check2 != None) & (check3 != None)) | (checkVec == True) | (checkAccVerb == True):
 		time = re.search('(.|khoảng.|vào.|lúc.)(\d{1,2}[h\:]\d{1,2}|\d{1,2}h|d{1,2}.giờ|\d{1,2}.giờ.\d{1,2}|' \
 					  '\d{1,2}.giờ.\d{1,2}.phút)',k)
 		if time:
@@ -60,29 +44,29 @@ def extractDay(var,dayInit):
 	code = Text(var)
 	for m in code.sentences:
 		k = str(m).lower()
-		check2 = re.search('gây ra|xảy ra',k)
-		check3 = re.search('vụ\s|tai nạn',k)
-		checkVec = False
-		checkAccVerb = False
-		for i in vehicle:
-			hasVehicle = re.search(i,k)
-			if hasVehicle:
-				checkVec = True
-				break
+		# check2 = re.search('gây ra|xảy ra',k)
+		# check3 = re.search('vụ\s|tai nạn',k)
+		# checkVec = False
+		# checkAccVerb = False
+		# for i in vehicle:
+		# 	hasVehicle = re.search(i,k)
+		# 	if hasVehicle:
+		# 		checkVec = True
+		# 		break
 
-		for j in accident_verb:
-			hasAccidentVerb = re.search('\s'+j+'\s',k)
-			if hasAccidentVerb:
-				checkAccVerb = True
-				break
-		if ((check2 != None) & (check3 != None)) | (checkVec == True) | (checkAccVerb == True):
-			checkday = re.search('(sáng.+|chiều.+|trưa.+|tối.+|nửa đêm.+|.)' \
-			             '(ngày.(0?[1-9]|[12]\d|3[01])[\/\-\.](0?[1-9]|1[012])[\/\-\.]\d{4}|ngày.(0?[1-9]|[12]\d|3[01])[\/\-\.](0?[1-9]\D|1[012]\D)|' \
-			             '(0?[1-9]|[12]\d|3[01])[\/\-\.](0?[1-9]|1[012])[\/\-\.]\d{4}|(0?[1-9]|[12]\d|3[01])[\/\-\.](0?[1-9]\D|1[012]\D))',k)
+		# for j in accident_verb:
+		# 	hasAccidentVerb = re.search('\s'+j+'\s',k)
+		# 	if hasAccidentVerb:
+		# 		checkAccVerb = True
+		# 		break
+		# if ((check2 != None) & (check3 != None)) | (checkVec == True) | (checkAccVerb == True):
+		checkday = re.search('(sáng.+|chiều.+|trưa.+|tối.+|nửa đêm.+|.)' \
+		             '(ngày.(0?[1-9]|[12]\d|3[01])[\/\-\.](0?[1-9]|1[012])[\/\-\.]\d{4}|ngày.(0?[1-9]|[12]\d|3[01])[\/\-\.](0?[1-9]\D|1[012]\D)|' \
+		             '(0?[1-9]|[12]\d|3[01])[\/\-\.](0?[1-9]|1[012])[\/\-\.]\d{4}|(0?[1-9]|[12]\d|3[01])[\/\-\.](0?[1-9]\D|1[012]\D))',k)
 
-			if checkday:
-				ex_day = checkday.group()
-				break
+		if checkday:
+			ex_day = checkday.group()
+			break
 
 	if ex_day == None:
 		ex_day = dayInit
@@ -314,8 +298,12 @@ if haveAccident == True:
 	
 # custom data-------------------------------------------------------------------------
 	customday = re.search('\d.+',exDay)
+	if len(customday.group()) > 10:
+		newCustomDay = timeInit
+	else:
+		newCustomDay = customday.group()
 	
-	newCustomDay = customday.group()
+	# newCustomDay = customday.group()
 	checkSignal = re.findall('[\/\-\.]',newCustomDay)
 	if checkSignal:
 		for i in checkSignal:
@@ -393,7 +381,7 @@ if haveAccident == True:
 	
 
 # check Same ----------------------------------------------------------------------------
-	if (accident_vehicle != ' ') & (accident_location != '') & (month_digit <= 5):
+	if (accident_vehicle != ' ') & (accident_location != '') & (month_digit <= 6):
 		accidentInfo = [titleOrigin,exTime,customDay,month_digit,accident_vehicle,quantity_died2,quantity_hurt2,accident_location,locationString,url]	
 		# connMySQL = connectMYSQL.insert_accident(accidentInfo)
 		select = connectMYSQL.selectDay(customDay)

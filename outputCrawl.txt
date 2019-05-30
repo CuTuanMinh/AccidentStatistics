@@ -1,1 +1,627 @@
+Title: 12 tiếng xảy ra 3 vụ TNGT liên tiếp, 4 người thiệt mạng
+Namepage: DANTRI
+
+NOT ACCIDENT
+-----------------------------------------------------------------------
+
+
+Title: Tài xế xe tải la hét báo mất phanh, lao thẳng vào xe ben đang "vướng" đèn đỏ
+Namepage: DANTRI
+
+EX DAY: chiều 24/5,
+Thời gian: khoảng 14h20
+Ngày: 24/05/2019
+MOnth digit: 
+5
+Phương tiện gây tai nạn: xe tải
+Tử vong: không
+Tử vong: 0 người
+Bị thương: 2 người trọng thương
+Bị thương: 2 người
+Địa điểm: TP Buôn Ma, TP Buôn Ma Thuột, tỉnh Đắk Lắk
+Vụ giao thông này đã có
+-----------------------------------------------------------------------
+
+
+Title: Hai xe khách tông nhau, 7 người nhập viện
+Namepage: DANTRI
+
+EX DAY: sáng ngày 24/5,
+Thời gian: khoảng 3h
+Ngày: 24/05/2019
+MOnth digit: 
+5
+Phương tiện gây tai nạn: xe khách
+Tử vong: không
+Tử vong: 0 người
+Bị thương: 7 người nhập viện
+Bị thương: 7 người
+Địa điểm: thị trấn Chư Sê, Gia Lai
+Vụ giao thông này đã có
+-----------------------------------------------------------------------
+
+
+Title: 2 học sinh tử nạn khi mượn xe máy của bố mẹ chở nhau đi chơi
+Namepage: DANTRI
+
+NOT ACCIDENT
+-----------------------------------------------------------------------
+
+
+Title: Tai nạn liên hoàn trên quốc lộ 1, xe khách lao vào nhà dân
+Namepage: DANTRI
+
+EX DAY: chiều 23/5,
+Thời gian: khoảng 16h
+Ngày: 23/05/2019
+MOnth digit: 
+5
+Phương tiện gây tai nạn: xe khách
+Tử vong: phụ nữ đi xe máy tử vong
+Tử vong: 1 người
+Bị thương: không
+Bị thương: 0 người
+Địa điểm: tỉnh Bình Định, huyện Phù Cát
+Vụ giao thông này đã có
+-----------------------------------------------------------------------
+
+
+Title: Tổng cục Đường bộ họp kín với Cần Thơ, An Giang vụ tài xế phản ứng trạm T2
+Namepage: DANTRI
+
+NOT ACCIDENT
+-----------------------------------------------------------------------
+
+
+Title: Lật xe khách, 2 mẹ con tử vong, 17 người bị thương
+Namepage: DANTRI
+
+EX DAY: gngày 23/5,
+Thời gian: khoảng 18h40
+Ngày: 23/05/2019
+MOnth digit: 
+5
+Phương tiện gây tai nạn: xe khách
+Tử vong: khách, 2 mẹ con tử vong
+Tử vong: 1 người
+Bị thương: 17 người bị thương
+Bị thương: 17 người
+Địa điểm: quốc lộ 1A, thị xã Long Khánh, Đồng Nai
+Vụ giao thông này đã có
+-----------------------------------------------------------------------
+
+
+Title: Tránh người đi xe đạp, xe CSGT đâm vào một phụ nữ
+Namepage: DANTRI
+
+EX DAY: sáng ngày 2/5,
+Thời gian: khoảng 7h30
+Ngày: 02/05/2019
+MOnth digit: 
+5
+Phương tiện gây tai nạn: chưa xác định được
+Tử vong: không
+Tử vong: 0 người
+Bị thương: nạn nhân đi cấp cứu
+Bị thương: 1 người
+Địa điểm: huyện Tiền Hải, tỉnh Thái Bình
+Vụ giao thông này đã có
+-----------------------------------------------------------------------
+
+
+Title: Xe chở hài cốt liệt sĩ cùng 6 người lao xuống ruộng
+Namepage: DANTRI
+
+EX DAY: sáng ngày 22/5,
+Thời gian: khoảng 5h30
+Ngày: 22/05/2019
+MOnth digit: 
+5
+Phương tiện gây tai nạn: chưa xác định được
+Tử vong: không
+Tử vong: 0 người
+Bị thương: 6 người trên xe cũng chỉ bị thương
+Bị thương: 6 người
+Địa điểm: quốc lộ 1 , tỉnh Hà Tĩnh
+Vụ giao thông này đã có
+-----------------------------------------------------------------------
+
+
+Title: Vụ tàu trật bánh ở Nam Định: Chất lượng đường ray không đảm bảo
+Namepage: DANTRI
+
+NOT ACCIDENT
+-----------------------------------------------------------------------
+
+
+Title: Dừng thu phí trạm BOT gần cầu Vàm Cống
+Namepage: VNexpress
+
+NOT ACCIDENT
+-----------------------------------------------------------------------
+
+
+Title: Xe container cháy rụi trên cao tốc Long Thành
+Namepage: VNexpress
+
+EX DAY: chiều 25/5,
+Thời gian:  
+Ngày: 25/05/2019
+MOnth digit: 
+5
+Phương tiện gây tai nạn: xe container
+Tử vong: không
+Tử vong: 0 người
+Bị thương: không
+Bị thương: 0 người
+Địa điểm: cao tốc Long Thành
+Vụ giao thông này đã có
+-----------------------------------------------------------------------
+
+
+Title: Xe tải lao xuống vực, tài xế tử vong
+Namepage: VNexpress
+
+EX DAY:  ngày 25/5,
+Thời gian: khoảng 6h
+Ngày: 25/05/2019
+MOnth digit: 
+5
+Phương tiện gây tai nạn: xe tải
+Tử vong: tài xế tử vong
+Tử vong: 1 người
+Bị thương: người dân đưa đi cấp cứu
+Bị thương: 1 người
+Địa điểm: Yên Minh, Hà Giang
+Vụ giao thông này đã có
+-----------------------------------------------------------------------
+
+
+Title: Hàng trăm ôtô vẫn đi phà Vàm Cống mỗi ngày
+Namepage: VNexpress
+
+NOT ACCIDENT
+-----------------------------------------------------------------------
+
+
+Title: Nam thanh niên lao xuống suối tử vong khi cầm ô chạy xe máy
+Namepage: VNexpress
+
+EX DAY:  ngày 24/5,
+Thời gian:  
+Ngày: 24/05/2019
+MOnth digit: 
+5
+Phương tiện gây tai nạn: chưa xác định được
+Tử vong: thanh niên lao xuống suối tử vong
+Tử vong: 1 người
+Bị thương: không
+Bị thương: 0 người
+Địa điểm: Thanh Hoá
+Vụ giao thông này đã có
+-----------------------------------------------------------------------
+
+
+Title: Xe giường nằm bốc cháy khi đang chạy
+Namepage: VNexpress
+
+EX DAY:  25/5,
+Thời gian: khoảng 1h15
+Ngày: 25/05/2019
+MOnth digit: 
+5
+Phương tiện gây tai nạn: chưa xác định được
+Tử vong: không
+Tử vong: 0 người
+Bị thương: không
+Bị thương: 0 người
+Địa điểm: thôn Tân Thủy, xã Sơn Tây
+Vụ giao thông này đã có
+-----------------------------------------------------------------------
+
+
+Title: Đề xuất giảm phí cho người dân khu vực trạm BOT gần cầu Vàm Cống
+Namepage: VNexpress
+
+NOT ACCIDENT
+-----------------------------------------------------------------------
+
+
+Title: Ôtô tông chết hai mẹ con rồi bỏ chạy
+Namepage: VNexpress
+
+EX DAY: tối 23/5,
+Thời gian:  
+Ngày: 23/05/2019
+MOnth digit: 
+5
+Phương tiện gây tai nạn: ô tô
+Tử vong: người con 9 tuổi tử vong
+Tử vong: 1 người
+Bị thương: bé ba tuổi bị thương
+Bị thương: 1 người
+Địa điểm: Quảng Nam
+Vụ giao thông này đã có
+-----------------------------------------------------------------------
+
+
+Title: Ôtô giường nằm tông nhau ở Gia Lai, 7 người bị thương
+Namepage: VNexpress
+
+EX DAY: sáng 24/5,
+Thời gian:  
+Ngày: 24/05/2019
+MOnth digit: 
+5
+Phương tiện gây tai nạn: ô tô
+Tử vong: không
+Tử vong: 0 người
+Bị thương: 7 người bị thương
+Bị thương: 7 người
+Địa điểm: Gia Lai
+Vụ giao thông này đã có
+-----------------------------------------------------------------------
+
+
+Title: Trạm thu phí gần cầu Vàm Cống được hình thành như thế nào
+Namepage: VNexpress
+
+NOT ACCIDENT
+-----------------------------------------------------------------------
+
+
+Title: Tài xế trả 2.000 đồng cho trạm thu phí gần cầu Vàm Cống
+Namepage: VNexpress
+
+NOT ACCIDENT
+-----------------------------------------------------------------------
+
+
+Title: Xe container lật, quốc lộ 1A ách tắc nhiều giờ
+Namepage: VNexpress
+
+NOT ACCIDENT
+-----------------------------------------------------------------------
+
+
+Title: TP HCM quy hoạch một loạt nút giao thông trọng điểm
+Namepage: VNexpress
+
+NOT ACCIDENT
+-----------------------------------------------------------------------
+
+
+Title: Đề xuất mức phạt 30 triệu đồng với tài xế vi phạm nồng độ cồn
+Namepage: VNexpress
+
+NOT ACCIDENT
+-----------------------------------------------------------------------
+
+
+Title: Hai mẹ con tử vong khi ôtô giường nằm lật ở Đồng Nai
+Namepage: VNexpress
+
+EX DAY: tối 22/5.
+Thời gian:  
+Ngày: 22/05/2019
+MOnth digit: 
+5
+Phương tiện gây tai nạn: ô tô
+Tử vong: khách chết
+Tử vong: 1 người
+Bị thương: 17 người bị thương
+Bị thương: 17 người
+Địa điểm: Đồng Nai
+Vụ giao thông này đã có
+-----------------------------------------------------------------------
+
+
+Title: Hà Nội phát hiện một tài xế sử dụng ma túy trước khi lái xe container
+Namepage: VNexpress
+
+NOT ACCIDENT
+-----------------------------------------------------------------------
+
+
+Title: Hơn 600 nhân sự tập vận hành đường sắt Cát Linh - Hà Đông
+Namepage: VNexpress
+
+NOT ACCIDENT
+-----------------------------------------------------------------------
+
+
+Title: Khách quán nhậu bỏ xe khi bị cảnh sát kiểm tra nồng độ cồn
+Namepage: VNexpress
+
+NOT ACCIDENT
+-----------------------------------------------------------------------
+
+
+Title: Xe chở hài cốt liệt sĩ lao xuống ruộng, 5 người gặp nạn
+Namepage: VNexpress
+
+EX DAY:  ngày 22/5,
+Thời gian:  5h30
+Ngày: 22/05/2019
+MOnth digit: 
+5
+Phương tiện gây tai nạn: chưa xác định được
+Tử vong: không
+Tử vong: 0 người
+Bị thương: 5 người bị thương
+Bị thương: 5 người
+Địa điểm: quốc lộ 1A, Nam Bắc
+Vụ giao thông này đã có
+-----------------------------------------------------------------------
+
+
+Title: Tài xế phản ứng dự án BOT 'chắn lối' đi cầu Vàm Cống
+Namepage: VNexpress
+
+NOT ACCIDENT
+-----------------------------------------------------------------------
+
+
+Title: Hơn 22.000 tỷ đồng đầu tư cao tốc Hòa Bình - Mộc Châu
+Namepage: VNexpress
+
+NOT ACCIDENT
+-----------------------------------------------------------------------
+
+
+Title: Trung tâm dạy lái xe ở Hà Nội từ chối học viên uống rượu, bia
+Namepage: VNexpress
+
+NOT ACCIDENT
+-----------------------------------------------------------------------
+
+
+Title: Ba ôtô tông liên hoàn khi dừng mua vé ở trạm BOT Gia Lai
+Namepage: VNexpress
+
+EX DAY: chiều 19/5,
+Thời gian:  
+Ngày: 19/05/2019
+MOnth digit: 
+5
+Phương tiện gây tai nạn: ô tô
+Tử vong: không
+Tử vong: 0 người
+Bị thương: hai vợ chồng bị thương
+Bị thương: 2 người
+Địa điểm: 
+-----------------------------------------------------------------------
+
+
+Title: Dân miền Tây ùn ùn tham quan cầu Vàm Cống
+Namepage: VNexpress
+
+NOT ACCIDENT
+-----------------------------------------------------------------------
+
+
+Title: Cầu Vàm Cống bắc qua sông Hậu trước ngày thông xe
+Namepage: VNexpress
+
+NOT ACCIDENT
+-----------------------------------------------------------------------
+
+
+Title: Nhà đầu tư nước ngoài không bị phân biệt khi đấu thầu dự án cao tốc
+Namepage: VNexpress
+
+NOT ACCIDENT
+-----------------------------------------------------------------------
+
+
+Title: Việt Nam đấu thầu quốc tế 8 dự án cao tốc Bắc Nam
+Namepage: VNexpress
+
+NOT ACCIDENT
+-----------------------------------------------------------------------
+
+
+Title: Nữ tài xế tháo chạy khỏi ôtô 5 chỗ bốc cháy
+Namepage: VNexpress
+
+EX DAY:  17/5,
+Thời gian: khoảng 11h20
+Ngày: 17/05/2019
+MOnth digit: 
+5
+Phương tiện gây tai nạn: ô tô
+Tử vong: không
+Tử vong: 0 người
+Bị thương: không
+Bị thương: 0 người
+Địa điểm: 
+-----------------------------------------------------------------------
+
+
+Title: Tông 2 mẹ con tử vong ở Quảng Nam: Tài xế khai hoảng sợ nên bỏ chạy
+Namepage: VIETNAMNET
+
+NOT ACCIDENT
+-----------------------------------------------------------------------
+
+
+Title: Sau va chạm xe máy, 2 người đàn ông bị xe khách cán chết
+Namepage: VIETNAMNET
+
+EX DAY: 24/05/2019
+
+Thời gian: khoảng 17h
+Ngày: 24/05/2019
+MOnth digit: 
+5
+Phương tiện gây tai nạn: xe khách
+Tử vong: khách cán chết
+Tử vong: 1 người
+Bị thương: không
+Bị thương: 0 người
+Địa điểm: xã Bình Mỹ, huyện Bắc Tân Uyên, tỉnh Bình Dương
+Vụ giao thông này đã có
+-----------------------------------------------------------------------
+
+
+Title: Hà Tĩnh: Xe khách bốc cháy dữ dội lúc rạng sáng
+Namepage: VIETNAMNET
+
+NOT ACCIDENT
+-----------------------------------------------------------------------
+
+
+Title: Xe khách cháy ngùn ngụt trên quốc lộ, thiếu niên 14 tuổi chết thảm
+Namepage: VIETNAMNET
+
+EX DAY: 24/05/2019
+
+Thời gian: khoảng 11h
+Ngày: 24/05/2019
+MOnth digit: 
+5
+Phương tiện gây tai nạn: xe khách
+Tử vong: khách cháy ngùn ngụt trên quốc lộ, thiếu niên 14 tuổi chết
+Tử vong: 1 người
+Bị thương: không
+Bị thương: 0 người
+Địa điểm: xã Phú Lợi, huyện Định Quán, tỉnh Đồng Nai
+Vụ giao thông này đã có
+-----------------------------------------------------------------------
+
+
+Title: Quảng Nam: Truy tìm ô tô tông hai mẹ con tử vong rồi bỏ chạy
+Namepage: VIETNAMNET
+
+NOT ACCIDENT
+-----------------------------------------------------------------------
+
+
+Title: Quảng Trị: Khởi tố tài xế Innova say xỉn tông bé lớp 3 tử vong
+Namepage: VIETNAMNET
+
+NOT ACCIDENT
+-----------------------------------------------------------------------
+
+
+Title: 2 vợ chồng ở Bình Định chết thảm khi va chạm với xe tải
+Namepage: VIETNAMNET
+
+EX DAY: tối 23/5,
+Thời gian: lúc 19h00
+Ngày: 23/05/2019
+MOnth digit: 
+5
+Phương tiện gây tai nạn: ô tô
+Tử vong: 2 vợ chồng ở bình định chết
+Tử vong: 2 người
+Bị thương: không
+Bị thương: 0 người
+Địa điểm: Bình Định
+Vụ giao thông này đã có
+-----------------------------------------------------------------------
+
+
+Title: Xe khách giường nằm va chạm xe máy tại Yên Bái, 2 thiếu niên thiệt mạng
+Namepage: VIETNAMNET
+
+EX DAY:  ngày 23/5/2019
+Thời gian:  20h50
+Ngày: 23/05/2019
+MOnth digit: 
+5
+Phương tiện gây tai nạn: xe khách
+Tử vong: khách giường nằm va chạm xe máy tại yên bái, 2 thiếu niên thiệt mạng
+Tử vong: 1 người
+Bị thương: không
+Bị thương: 0 người
+Địa điểm: Yên Bái
+Vụ giao thông này đã có
+-----------------------------------------------------------------------
+
+
+Title: 3 xe container va chạm, 1 chiếc lật chắn ngang quốc lộ ở Hà Tĩnh
+Namepage: VIETNAMNET
+
+EX DAY: 23/05/2019
+
+Thời gian: khoảng 11h30
+Ngày: 23/05/2019
+MOnth digit: 
+5
+Phương tiện gây tai nạn: xe container
+Tử vong: 2 người tử vong
+Tử vong: 2 người
+Bị thương: tài xế bị thương
+Bị thương: 1 người
+Địa điểm: Hà Tĩnh
+Vụ giao thông này đã có
+-----------------------------------------------------------------------
+
+
+Title: Tài xế phản ứng quyết liệt, BOT T2 Cần Thơ liên tục xả trạm
+Namepage: VIETNAMNET
+
+NOT ACCIDENT
+-----------------------------------------------------------------------
+
+
+Title: Xe container lấn làn, cán người phụ nữ đi xe máy chết thảm
+Namepage: VIETNAMNET
+
+EX DAY: 23/05/2019
+
+Thời gian: khoảng 11h30
+Ngày: 23/05/2019
+MOnth digit: 
+5
+Phương tiện gây tai nạn: xe container
+Tử vong: người phụ nữ đi xe máy chết
+Tử vong: 1 người
+Bị thương: 17 người khác bị thương
+Bị thương: 17 người
+Địa điểm: Mỹ Phước, Tân Vạn, phường Bình Chuẩn, thị xã Thuận An, tỉnh Bình Dương
+Vụ giao thông này đã có
+-----------------------------------------------------------------------
+
+
+Title: Thủ tướng dự lễ kỷ niệm 15 năm đường bay thẳng Việt Nam - Nga
+Namepage: VIETNAMNET
+
+NOT ACCIDENT
+-----------------------------------------------------------------------
+
+
+Title: Không cần thiết dời trạm BOT T2 Cần Thơ vì quá tốn kém
+Namepage: VIETNAMNET
+
+NOT ACCIDENT
+-----------------------------------------------------------------------
+
+
+Title: Lật xe khách tại Đồng Nai, 2 người chết, 17 người bị thương
+Namepage: VIETNAMNET
+
+EX DAY: tối 22/5 
+Thời gian:  
+Ngày: 22/05/2019
+MOnth digit: 
+5
+Phương tiện gây tai nạn: xe khách
+Tử vong: 2 người chết
+Tử vong: 2 người
+Bị thương: 17 người bị thương
+Bị thương: 17 người
+Địa điểm: Đồng Nai
+Vụ giao thông này đã có
+-----------------------------------------------------------------------
+
+
+Title: Hà Nội: Xe ba gác đổ dốc lật nghiêng đè chết người đi xe máy
+Namepage: VIETNAMNET
+
+NOT ACCIDENT
+-----------------------------------------------------------------------
+
+
 CRAWL FINISHED
